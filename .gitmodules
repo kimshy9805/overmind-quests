@@ -1,0 +1,3 @@
+[submodule "slice-the-jpeg"]
+	path = slice-the-jpeg
+	url = https://github.com/overmind-xyz/slice-the-jpeg.git
